@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(24): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(25): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(26): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(27): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(28): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(29): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(30): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(31): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(55): warning C4309: 'initializing': truncation of constant value
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(112): warning C4101: 'test': unreferenced local variable
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(158): warning C4101: 'ln': unreferenced local variable
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(285): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(260): warning C4101: 'choice': unreferenced local variable
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(268): warning C4101: 'output': unreferenced local variable
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(265): warning C4101: 'new_x': unreferenced local variable
+c:\users\id student\desktop\caleb h\finalproject\finalproject\source.cpp(266): warning C4101: 'new_y': unreferenced local variable
+  FinalProject.vcxproj -> C:\Users\iD Student\Desktop\Caleb H\FinalProject\Debug\FinalProject.exe
+  FinalProject.vcxproj -> C:\Users\iD Student\Desktop\Caleb H\FinalProject\Debug\FinalProject.pdb (Full PDB)
